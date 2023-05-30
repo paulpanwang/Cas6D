@@ -1,0 +1,4 @@
+name: detector_pretrain
+network: detector
+use_dino: False
+detection_scales: [-1.0,-0.5,0.0,0.5]

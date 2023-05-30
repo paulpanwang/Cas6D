@@ -1,0 +1,15 @@
+name: cas6d_train
+type: cas6d
+
+# detector: configs/detector/mvsformer_detector_train.yaml
+# detector: configs/detector/detector_pretrain.yaml
+# refiner:  configs/refiner/cascade_refiner.yaml
+
+detector: configs/detector/van_detector_dino.yaml
+selector: configs/selector/selector_pretrain.yaml
+refiner:  configs/refiner/refiner_pretrain.yaml
+
+ref_resolution: 128   # reference image resolution
+ref_view_num: 16      # view number used in selection
+det_ref_view_num: 16  # view number used in detection
+refine_iter: 3        # refinement iteration number

@@ -1,0 +1,12 @@
+opencv-python
+transforms3d
+numpy
+plyfile
+scikit-image
+matplotlib
+open3d
+pytorch3d
+pyyaml
+tensorboardX
+tqdm
+loguru
