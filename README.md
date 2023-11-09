@@ -1,7 +1,16 @@
-# Cas6D
+
+# Cas6D: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+
+[[Paper]](https://arxiv.org/abs/2306.07598) [[Project]](https://github.com/paulpanwang/Cas6D)
   We present a new cascade framework named Cas6D for few-shot 6DoF pose estimation that is generalizable and uses only RGB images.
 
 
+## Evaluate all components together.
+```shell
+# Evaluate on the object TFormer from the GenMOP/LINEMOD dataset
+python eval.py --cfg configs/cas6d_train.yaml 
+
+```
 
 
 ## Acknowledgement
