@@ -1,5 +1,5 @@
 
-# Cas6D: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference
+# Cas6D: Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images
 
 [[Paper]](https://arxiv.org/abs/2306.07598) [[Project]](https://github.com/paulpanwang/Cas6D)  
 
