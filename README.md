@@ -1,10 +1,32 @@
 
-# Cas6D: Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [3D Vision 2024]
-
-[[Paper]](https://arxiv.org/abs/2306.07598) [[Project]](https://github.com/paulpanwang/Cas6D)  
 
 
+<div align="center">
+<h1>[3DV24] Cas6D: Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, <br> Generalizable Approach using RGB Images </h1>
 
+[[Paper: Arxiv]](https://arxiv.org/abs/2306.07598) 
+
+
+<div>
+        <a href="https://paulpanwang.github.io/">Panwang Pan</a><strong><sup>1,*</sup></strong>,
+        <a href="https://zhiwenfan.github.io/">Zhiwen Fan</a><strong><sup>2,*</sup></strong>,
+        <a href="https://brandonyfeng.github.io/">Brandon Y. Feng</a><strong><sup>3,*</sup></strong>,
+        <a href="https://peihaowang.github.io/">Peihao Wang</a><strong><sup>2</sup></strong>,
+        <a href="https://xggnet.github.io/">Chenxin Li</a><strong><sup>4</sup></strong>,
+        <a href="https://vita-group.github.io/">Zhangyang Wang</a><strong><sup>2</sup></strong>
+</div>
+ <div>
+    <sup>1</sup>ByteDance &emsp; 
+    <sup>2</sup>The University of Texas at Austin &emsp;
+    <sup>3</sup>MIT &emsp;
+    <sup>4</sup>The Chinese University of Hong Kong &emsp;
+    <sup>*</sup>denotes equal contribution
+</div>
+
+<img src="assets/framework.png" width="100%"/>
+<img src="assets/linemod.gif" width="100%"/>
+
+</div>
 We present a new cascade framework named Cas6D for few-shot 6DoF pose estimation that is generalizable and uses only RGB images.
 
 
