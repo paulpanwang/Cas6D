@@ -103,11 +103,13 @@ We would like to thank [Gen6D](https://github.com/liuyuan-pal/Gen6D) authors for
 
 If you find this repo is helpful, please consider citing:
 ```bibtex
-@article{pan2023learning,
-  title={Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images},
+@inproceedings{pan2024learning,
+  title={Learning to estimate 6dof pose from limited data: A few-shot, generalizable approach using rgb images},
   author={Pan, Panwang and Fan, Zhiwen and Feng, Brandon Y and Wang, Peihao and Li, Chenxin and Wang, Zhangyang},
-  journal={arXiv preprint arXiv:2306.07598},
-  year={2023}
+  booktitle={2024 International Conference on 3D Vision (3DV)},
+  pages={1059--1071},
+  year={2024},
+  organization={IEEE}
 }
 
 ```
