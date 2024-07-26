@@ -4,7 +4,7 @@
 <div align="center">
 <h1>[3DV24] Cas6D: Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, <br> Generalizable Approach using RGB Images </h1>
 
-[[Paper: Arxiv]](https://arxiv.org/abs/2306.07598) 
+[[Paper: Arxiv]](https://ieeexplore.ieee.org/abstract/document/10550594) 
 
 
 <div>
